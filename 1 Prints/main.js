@@ -1,7 +1,7 @@
 console.log('Olá mundo!')
 
 /*
-or 
+ou 
 document.write('Olá mundo!)
 */
 
